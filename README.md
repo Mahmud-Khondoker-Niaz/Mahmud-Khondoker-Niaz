@@ -1,17 +1,17 @@
-# Rajib Miah
+# Khondoker NIaz Mahmud
 
-Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing my Master's degree in **Artificial Intelligence** at **Brandenburg University of Technology** (BTU), Germany. I have a strong background in **Computer Science** and **Engineering**, having completed my Bachelor's degree in Bangladesh. I write code for inner pace.
+Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently pursuing my Master's degree in **Artificial Intelligence** at **Brandenburg University of Technology** (BTU), Germany. I have a strong background in **Computer Science** and **Engineering**, having completed my Bachelor's degree in Bangladesh. I write code for inner pace.
 
 ---
 
 ## 🚀 About Me
 
-- **Name**: Rajib Miah
+- **Name**: Khondoker NIaz Mahmud
 - **Nationality**: Bangladeshi
 - **Current Location**: Cottbus, Germany
 - **Academic Background**:
   - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany
-  - **Bachelor's Degree** in **Computer Science and Engineering** from **Metropolitan University Bangladesh**
+  - **Bachelor's Degree** in **Computer Science and Engineering** from **Gopalganj Science & Technology University**
 
 ---
 
@@ -77,8 +77,8 @@ Hi, I'm **Rajib Miah**, a passionate open source contibutor currently pursuing m
 
 You can reach me via:
 - **Email**: ahmedrajib942@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mrrajibmiah/)
-- **Leetcode**:[leetcode profile](https://leetcode.com/u/md_rajib)
+- **LinkedIn**: [LinkedIn Profile]() 
+- **Leetcode**:[leetcode profile]() 
 ---
 
 ## 🌟 Notable Achievements
