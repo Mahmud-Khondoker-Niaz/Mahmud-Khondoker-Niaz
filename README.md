@@ -76,14 +76,14 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 ## 💬 Let's Connect
 
 You can reach me via:
-- **Email**: ahmedrajib942@gmail.com
+- **Email**:niaz.mahmud912@gmail.com
 - **LinkedIn**: [LinkedIn Profile]() 
 - **Leetcode**:[leetcode profile]() 
 ---
 
 ## 🌟 Notable Achievements
 
-- **Winner** of the regional **NASA Space App Challenge** hackathon in 2019.
+
 - Applying for AI-related roles in **Software Development** by 2026.
   
 ---
