@@ -6,7 +6,7 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 
 ## 🚀 About Me
 
-- **Name**: Khondoker NIaz Mahmud
+- **Name**: Khondoker Niaz Mahmud
 - **Nationality**: Bangladeshi
 - **Current Location**: Cottbus, Germany
 - **Academic Background**:
@@ -19,18 +19,20 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 
 ### Programming Languages:
 - **Python**
-- **TypeScript**, **JavaScript**, **C++**
+- **TypeScript**, **JavaScript**, **PHP**, **C++**
 - **SQL**
 
 ### Frameworks & Libraries:
 - **React.js** (including **Next.js**, **styled-components**, **Redux**)
-- **Node.js**, **Express.js**
-- **Flutter**
+- **Node.js**
+- **Laravel**
+
+
 
 ### Tools & Technologies:
 - **Git**, **GitHub**
 - **Docker**
-- **GraphQL**
+
 
 ### Databases:
 - **Database Management Systems (DBMS)**
@@ -44,7 +46,7 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 - **Data Structures** and **Algorithms**
 
 ### Web Technologies:
-- **HTML5**, **CSS**
+- **HTML5**, **CSS**, **Bootstrap**
 
 
 
@@ -77,27 +79,15 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 
 You can reach me via:
 - **Email**:niaz.mahmud912@gmail.com
-- **LinkedIn**: [LinkedIn Profile]() 
-- **Leetcode**:[leetcode profile]() 
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khondoker-niaz-mahmud/) 
+- **Leetcode**:[leetcode profile](https://leetcode.com/u/Niaz_118912/) 
 ---
-
-## 🌟 Notable Achievements
-
-
-- Applying for AI-related roles in **Software Development** by 2026.
   
----
 
-## 📝 Ongoing Projects
+## 📌 Co-Curricular Activities
 
-Currently working on the following:
-- **Open Course Contributor** at **Reality AI Lab**: Contributing to open-source project named Marvel AI. A versatile AI Teaching Assistant designed to transform education by supporting educators in creating high-quality lesson plans, assignments, and learning resources.
-
----
-
-## 📌 Fun Facts
-
-- Loading...
+- **Debate** - **Currently I am an adjudicator of nationdal debate tournament**
+- **Programming** - **Currently I am doing leetcode problems for enriching my problem solving skills**
 
 ---
 
