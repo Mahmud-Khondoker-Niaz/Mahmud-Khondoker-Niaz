@@ -1,4 +1,4 @@
-# Khondoker NIaz Mahmud
+# Khondoker Niaz Mahmud
 
 Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently pursuing my Master's degree in **Artificial Intelligence** at **Brandenburg University of Technology** (BTU), Germany. I have a strong background in **Computer Science** and **Engineering**, having completed my Bachelor's degree in Bangladesh. I write code for inner pace.
 
