@@ -34,26 +34,25 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 
 ## 📊 Projects
 
-## TikTok User Data Management
+### 1. TikTok User Data Management
+- Explored and cleaned **19k+ TikTok video records**.  
+- Performed **EDA** on engagement metrics (views, likes, shares, comments).  
+- Analyzed **claim & verified status** patterns.  
+- Visualized insights with **Matplotlib & Seaborn**.  
+- **Tools:** Python, Pandas, Seaborn  
 
-**Project Summary:**  
-Built a Python-based data analysis workflow to explore, clean, and visualize TikTok video and user metrics.
+🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/TikTok_User_Data_Management.git)
 
-**Key Achievements:**  
-- Loaded and explored a dataset of 19k+ TikTok videos.  
-- Performed basic data cleaning, including handling missing values and checking data types.  
-- Conducted exploratory data analysis (EDA) on metrics such as:
-  - Video views, likes, shares, downloads, and comments  
-  - Claim status and verified status  
-- Visualized distributions and trends using **Matplotlib** and **Seaborn**.  
-- Gained insights into overall video performance and claim patterns.
+---
 
-**Skills & Tools Used:**  
-- **Programming:** Python  
-- **Libraries:** Pandas, Matplotlib, Seaborn  
-- **Techniques:** Data Cleaning, Exploratory Data Analysis (EDA), Visualization  
+### 2. Yellow Taxi Data Analysis
+- Analyzed **NYC Yellow Taxi trip data** for distance, fares, and trip patterns.  
+- Identified **outliers & missing data** through cleaning and inspection.  
+- Created initial **visualizations** for trip distributions.  
+- **Tools:** Python, Pandas, Matplotlib, Seaborn  
 
-**Repository:** [TikTok User Data Management](https://github.com/YourGitHubUsername/TikTok_User_Data_Management)
+🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/Yellow_Taxi_Data_Analysis.git)
+
 
 
 ---
