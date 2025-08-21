@@ -1,12 +1,11 @@
 # Khondoker Niaz Mahmud
 
-Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently pursuing my Master's degree in **Artificial Intelligence** at **Brandenburg University of Technology** (BTU), Germany. I have a strong background in **Computer Science** and **Engineering**, having completed my Bachelor's degree in Bangladesh. I write code for inner pace.
+Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Analytics, Business Analytics, and Data Engineering**. I leverage Python, SQL, and modern data tools to extract insights and build scalable data solutions.
 
 ---
 
 ## 🚀 About Me
 
-- **Name**: Khondoker Niaz Mahmud
 - **Nationality**: Bangladeshi
 - **Current Location**: Cottbus, Germany
 - **Academic Background**:
@@ -17,38 +16,33 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 
 ## 🛠️ Technical Skills
 
-### Programming Languages:
-- **Python**
-- **TypeScript**, **JavaScript**, **PHP**, **C++**
-- **SQL**
+### Programming & Data Tools:
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MySQL)
+- **R**
+- **Excel**, **Tableau**, **Power BI**
 
-### Frameworks & Libraries:
-- **React.js** (including **Next.js**, **styled-components**, **Redux**)
-- **Node.js**
-- **Laravel**
+### Data Engineering & Big Data:
+- ETL pipelines
+- Data Cleaning & Preprocessing
 
+### Machine Learning & Analytics:
+- **Scikit-learn**, **Statsmodels** for analytics
+- Data Visualization & Reporting
 
+---
 
-### Tools & Technologies:
-- **Git**, **GitHub**
-- **Docker**
+## 📊 Projects
 
+### **TikTok User Data Management**
+- Built a **Python-based data analysis pipeline** to explore, clean, and visualize user and video metrics.
+- Performed **EDA** on 19k+ TikTok videos: views, likes, shares, downloads, comments, and claim status.
+- Visualized distributions and trends using **Matplotlib** and **Seaborn**.
+- Repository: [TikTok User Data Management](https://github.com/Mahmud-Khondoker-Niaz/TikTok_User_Data_Management.git)
+- Skills used: Python, Pandas, Seaborn, Matplotlib, Data Cleaning, EDA  
 
-### Databases:
-- **Database Management Systems (DBMS)**
-
-### Development Skills:
-- **API Development**
-- **Full-Stack Development**
-- **User Interface Design**
-
-### Problem-Solving:
-- **Data Structures** and **Algorithms**
-
-### Web Technologies:
-- **HTML5**, **CSS**, **Bootstrap**
-
-
+### **Other Projects (Optional)**
+- Add any other small data analytics or visualization projects here.
 
 ---
 
@@ -60,44 +54,22 @@ Hi, I'm **Khondoker NIaz Mahmud**, a passionate open source contibutor currently
 
 ---
 
-## 💡 Research Interests
+## 💡 Research & Interests
 
-- **AI** (NLP, Machine Learning, and Computer Vision)
-- **Cybersecurity** (Security systems and innovations)
-- **Embedded Systems** and **Low-Level Development**
-
----
-
-## 🧳 Travel and Cultural Interests
-
-- Exploring the **German culture** and engaging with local and corporate communities in **Berlin**.
-- Interested in understanding the global environment for tech innovation and development.
+- **AI** (NLP, Machine Learning, Computer Vision)
+- **Data Analytics & Data Engineering**
 
 ---
 
 ## 💬 Let's Connect
 
-You can reach me via:
-- **Email**:niaz.mahmud912@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khondoker-niaz-mahmud/) 
-- **Leetcode**:[leetcode profile](https://leetcode.com/u/Niaz_118912/) 
----
-  
-
-## 📌 Co-Curricular Activities
-
-- **Debate** - **Currently I am an adjudicator of nationdal debate tournament**
-- **Programming** - **Currently I am doing leetcode problems for enriching my problem solving skills**
+- **Email**: niaz.mahmud912@gmail.com  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khondoker-niaz-mahmud/)  
+- **Leetcode**: [Leetcode Profile](https://leetcode.com/u/Niaz_118912/)  
 
 ---
 
 ## 🏅 Career Goals
 
-- To work for a company whose **values** align with mine, contributing to **meaningful** and **impactful** work in **AI** and **Cybersecurity**.
-- Pursue a **PhD** in the future in AI, focusing on **security** and **innovation**.
-
----
-
-## 📍 Contact Info
-
-Feel free to contact me for any **collaboration**, **research**, or **work opportunities**.
+- Contribute to **impactful data-driven projects** in **Data Analytics / Data Engineering**.
+- Pursue **PhD** in AI focusing on **security, data, and innovation**.
