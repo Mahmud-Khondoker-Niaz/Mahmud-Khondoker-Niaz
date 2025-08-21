@@ -34,15 +34,27 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 
 ## 📊 Projects
 
-### **TikTok User Data Management**
-- Built a **Python-based data analysis pipeline** to explore, clean, and visualize user and video metrics.
-- Performed **EDA** on 19k+ TikTok videos: views, likes, shares, downloads, comments, and claim status.
-- Visualized distributions and trends using **Matplotlib** and **Seaborn**.
-- Repository: [TikTok User Data Management](https://github.com/Mahmud-Khondoker-Niaz/TikTok_User_Data_Management.git)
-- Skills used: Python, Pandas, Seaborn, Matplotlib, Data Cleaning, EDA  
+## TikTok User Data Management
 
-### **Other Projects (Optional)**
-- Add any other small data analytics or visualization projects here.
+**Project Summary:**  
+Built a Python-based data analysis workflow to explore, clean, and visualize TikTok video and user metrics.
+
+**Key Achievements:**  
+- Loaded and explored a dataset of 19k+ TikTok videos.  
+- Performed basic data cleaning, including handling missing values and checking data types.  
+- Conducted exploratory data analysis (EDA) on metrics such as:
+  - Video views, likes, shares, downloads, and comments  
+  - Claim status and verified status  
+- Visualized distributions and trends using **Matplotlib** and **Seaborn**.  
+- Gained insights into overall video performance and claim patterns.
+
+**Skills & Tools Used:**  
+- **Programming:** Python  
+- **Libraries:** Pandas, Matplotlib, Seaborn  
+- **Techniques:** Data Cleaning, Exploratory Data Analysis (EDA), Visualization  
+
+**Repository:** [TikTok User Data Management](https://github.com/YourGitHubUsername/TikTok_User_Data_Management)
+
 
 ---
 
