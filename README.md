@@ -34,28 +34,18 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 
 ## 📊 Projects
 
-### 1. TikTok User Data Management
-- Explored and cleaned **19k+ TikTok video records**.  
-- Performed **EDA** on engagement metrics (views, likes, shares, comments).  
-- Analyzed **claim & verified status** patterns.  
-- Visualized insights with **Matplotlib & Seaborn**.  
-- **Tools:** Python, Pandas, Seaborn  
+### 1. YouTube Video Data Pipeline & ML Classification
+- Developed an automated ETL pipeline to extract, clean, and load YouTube video data into PostgreSQL.  
+- Implemented a Random Forest classifier to predict video popularity, achieving ~98% accuracy.  
+- Focused on data preprocessing, pipeline automation, and scalable data handling.
+🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/Youtube-Data-Pipeline)
 
-🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/TikTok_User_Data_Management.git)
-
----
-
-### 2. Yellow Taxi Data Analysis
-- Analyzed **NYC Yellow Taxi trip data** for distance, fares, and trip patterns.  
-- Identified **outliers & missing data** through cleaning and inspection.  
+### 2. EDA Project: Date & String Manipulation
+- Calculated weekly and quarterly totals of lightning strikes and visualized trends with bar graphs. 
+- Demonstrated data wrangling, time-series aggregation, and visualization skills.
 - Created initial **visualizations** for trip distributions.  
 - **Tools:** Python, Pandas, Matplotlib, Seaborn  
-
-🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/Yellow_Taxi_Data_Analysis.git)
-
-
-
----
+🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/EDA_Project_Data_String_Manipulation)
 
 ## 🌍 Languages
 
