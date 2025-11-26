@@ -7,7 +7,7 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 ## 🚀 About Me
 
 - **Nationality**: Bangladeshi
-- **Current Location**: Cottbus, Germany
+- **Current Location**: Munich, Germany
 - **Academic Background**:
   - **Master's Degree** in **Artificial Intelligence** at **Brandenburg University of Technology (BTU)**, Germany
   - **Bachelor's Degree** in **Computer Science and Engineering** from **Gopalganj Science & Technology University**
@@ -22,13 +22,17 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 - **R**
 - **Excel**, **Tableau**, **Power BI**
 
-### Data Engineering & Big Data:
-- ETL pipelines
-- Data Cleaning & Preprocessing
-
-### Machine Learning & Analytics:
-- **Scikit-learn**, **Statsmodels** for analytics
-- Data Visualization & Reporting
+### Machine Learning & Analytics
+**Analytics:** 
+- Data preprocessing & feature engineering
+- Predictive modeling & model evaluation (Accuracy, Precision, Recall, F1-score)
+- Data visualization & reporting
+- Explainable AI (SHAP, LIME)
+**Algorithms:** 
+- Linear & Logistic Regression
+- Decision Trees, Random Forest
+- XGBoost, CatBoost, LightGBM
+- SVM, KNN, Neural Networks (MLP)
 
 ---
 
