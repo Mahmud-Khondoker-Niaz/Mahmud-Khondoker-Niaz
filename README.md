@@ -28,6 +28,7 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 - Predictive modeling & model evaluation (Accuracy, Precision, Recall, F1-score)
 - Data visualization & reporting
 - Explainable AI (SHAP, LIME)
+  
 **Algorithms:** 
 - Linear & Logistic Regression
 - Decision Trees, Random Forest
