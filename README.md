@@ -34,13 +34,20 @@ Hi, I'm **Khondoker Niaz Mahmud**, a data enthusiast specializing in **Data Anal
 
 ## 📊 Projects
 
-### 1. YouTube Video Data Pipeline & ML Classification
+### 1. Hybrid ML–DL Framework for Loan Approval Prediction (Research)
+- Developed a hybrid Machine Learning + Deep Learning framework for intelligent loan approval prediction.
+- Evaluated 15 models including XGBoost, LightGBM, CatBoost, MLP, LSTM, PLSTM.
+- Achieved **99.30% accuracy** with XGBoost on a structured dataset of 5,000 customer profiles.
+- Applied SMOTE, outlier removal, normalization, SHAP & LIME explainability.
+🔗 Repository: https://github.com/Mahmud-Khondoker-Niaz/Research-Project
+
+### 2. YouTube Video Data Pipeline & ML Classification
 - Developed an automated ETL pipeline to extract, clean, and load YouTube video data into PostgreSQL.  
 - Implemented a Random Forest classifier to predict video popularity, achieving ~98% accuracy.  
 - Focused on data preprocessing, pipeline automation, and scalable data handling.
 🔗 [Repository](https://github.com/Mahmud-Khondoker-Niaz/Youtube-Data-Pipeline)
 
-### 2. EDA Project: Date & String Manipulation
+### 3. EDA Project: Date & String Manipulation
 - Calculated weekly and quarterly totals of lightning strikes and visualized trends with bar graphs. 
 - Demonstrated data wrangling, time-series aggregation, and visualization skills.
 - Created initial **visualizations** for trip distributions.  
